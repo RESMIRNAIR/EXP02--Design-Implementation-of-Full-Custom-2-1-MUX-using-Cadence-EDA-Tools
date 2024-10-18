@@ -10,8 +10,8 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 
 # S C H E M A T I C  S I M U L A T I O N
 # PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
-~~
-Commands to get into Cadence
+
+~~Commands to get into Cadence
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
@@ -45,8 +45,8 @@ ii)	Create Schematic Cell view.
 	Gpdk45 ------------------------nmos1v,  pmos1v
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
-	Click Check and Save button
-~~
+	Click Check and Save button~~
+
 ![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
 
 
